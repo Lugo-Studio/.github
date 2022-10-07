@@ -1,2 +1,2 @@
 # < Lugo Studio >
-  Organization created by @GTLugo to host my (supposedly) more professional projects.
+  Organization created by @GTLugo to host (supposedly) more professional projects.
